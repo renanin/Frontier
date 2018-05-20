@@ -1,0 +1,33 @@
+{
+  "name": "Frontier",
+  "version": "0.1.0",
+  "description": "Social media site",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/ziz/frontier",
+    "type": "git"
+  },
+  "author": "ziz",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "vue": "^2.5.16",
+    "vue-class-component": "^6.2.0",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0",
+    "ts-loader": "^4.3.0",
+    "tslint": "^5.10.0",
+    "tslint-config-airbnb": "^5.9.2",
+    "typescript": "^2.8.3",
+    "vue-loader": "^15.1.0",
+    "vue-style-loader": "^4.1.0",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
+  }
+}
