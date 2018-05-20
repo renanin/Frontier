@@ -5170,7 +5170,10 @@ strip-json-comments@~2.0.1:
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 244526509c25e8eaa602bff94f8c3e0f8b042ca2
 style-loader:
   version "0.21.0"
   resolved "https://registry.yarnpkg.com/style-loader/-/style-loader-0.21.0.tgz#68c52e5eb2afc9ca92b6274be277ee59aea3a852"
@@ -5178,6 +5181,9 @@ style-loader:
     loader-utils "^1.1.0"
     schema-utils "^0.4.5"
 
+<<<<<<< HEAD
+>>>>>>> 244526509c25e8eaa602bff94f8c3e0f8b042ca2
+=======
 >>>>>>> 244526509c25e8eaa602bff94f8c3e0f8b042ca2
 supports-color@^2.0.0:
   version "2.0.0"
@@ -5633,11 +5639,15 @@ vue-loader:
     vue-style-loader "^4.1.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 vue-router:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.0.1.tgz#d9b05ad9c7420ba0f626d6500d693e60092cc1e9"
 
 vue-style-loader, vue-style-loader@^4.1.0:
+=======
+vue-style-loader@^4.1.0:
+>>>>>>> 244526509c25e8eaa602bff94f8c3e0f8b042ca2
 =======
 vue-style-loader@^4.1.0:
 >>>>>>> 244526509c25e8eaa602bff94f8c3e0f8b042ca2
